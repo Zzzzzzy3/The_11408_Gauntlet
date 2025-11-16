@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cmc17_review/11.md",
+                "file": "手写公式转Latex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11"
+              "title": "手写公式转Latex"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "43e83d637f462a51",
   "lastOpenFiles": [
-    "cmc17_review/9.md",
+    "RW.md",
+    "手写公式转Latex.md",
+    "README.md",
     "cmc17_review/10.md",
     "cmc17_review/11.md",
+    "cmc17_review/9.md",
     "二元积分系列/fudan_math_iint.md",
-    "README.md",
-    "RW.md",
     "Zero.md",
     "SECURITY.md",
     "一元积分系列/阿基米德曲线Review.md",
