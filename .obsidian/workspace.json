@@ -11,12 +11,14 @@
             "id": "43e83d637f462a51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251118194206.png"
+                "file": "math/二元积分系列/曲面面积求解/曲面面积公式.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251118194206"
+              "icon": "lucide-file",
+              "title": "曲面面积公式"
             }
           }
         ]
@@ -168,34 +170,38 @@
   },
   "active": "43e83d637f462a51",
   "lastOpenFiles": [
+    "math/二元积分系列/积分区间对称/1.md",
+    "math/二元积分系列/fudan_math_iint.md",
+    "math/二元积分系列/二元函数求极值.md",
+    "math/二元积分系列/曲面面积求解/曲面面积公式.md",
+    "math/一元积分系列/阿基米德曲线.md",
+    "math/一元积分系列/斯托克斯公式证明.md",
+    "手写公式转Latex.md",
+    "Pasted image 20251118193911.png",
+    "math/方向导数",
+    "math/二元积分系列/曲面面积求解",
+    "math/一元积分系列/数据集构成.md",
+    "Pasted image 20251118194206.png",
     "Pasted image 20251118194020.png",
     "Pasted image 20251118194059.png",
-    "Pasted image 20251118194206.png",
     "Pasted image 20251118194310.png",
     "README.md",
     "RW.md",
     "SECURITY.md",
-    "math/一元积分系列/阿基米德曲线Review.md",
     "Computer_Basics/经验贴.md",
     "Computer_Basics/数据结构/Progress.md",
-    "math/二元积分系列/积分区间对称/1.md",
-    "手写公式转Latex.md",
-    "math/二元积分系列/二元函数求极值.md",
     "math/cmc17_review/5.md",
     "math/cmc17_review/11.md",
-    "math/二元积分系列/fudan_math_iint.md",
     "math/cmc17_review/10.md",
     "math/二元积分系列/积分区间对称",
     "math/test/test1.md",
     "math/test/in.md",
     "math/cmc17_review/9.md",
     "Pasted image 20251118194127.png",
-    "Pasted image 20251118193911.png",
     "Pasted image 20251118194151.png",
     "Pasted image 20251118194224.png",
     "Pasted image 20251118194244.png",
     "Pasted image 20251118194545.png",
-    "Pasted image 20251118194604.png",
     "math/test/de1.md",
     "Computer_Basics/数据结构",
     "math/test",
@@ -205,14 +211,9 @@
     "math/二元积分系列",
     "math/一元积分系列",
     "rw2027",
-    "math/cmc17_review",
     "zzy/数据处理.md",
     "zzy/图像工程.md",
     "zzy/单片机接口与技术实验.md",
-    "zzy/Ultralytics源码.md",
-    "ZZZY/readmey.md",
-    "中值定理证明题(二)_与不等式有关的证明.md",
-    "ZZZY/yolo_2_bridge.md",
-    "ZZZY"
+    "zzy/Ultralytics源码.md"
   ]
 }
