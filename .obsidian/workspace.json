@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/二元积分系列/曲面面积求解/曲面面积公式.md",
+                "file": "math/概率论/求相关系数rho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "曲面面积公式"
+              "title": "求相关系数rho"
             }
           }
         ]
@@ -170,10 +170,12 @@
   },
   "active": "43e83d637f462a51",
   "lastOpenFiles": [
+    "math/二元积分系列/曲面面积求解/曲面面积公式.md",
+    "math/概率论/求相关系数rho.md",
+    "math/概率论",
     "math/二元积分系列/积分区间对称/1.md",
     "math/二元积分系列/fudan_math_iint.md",
     "math/二元积分系列/二元函数求极值.md",
-    "math/二元积分系列/曲面面积求解/曲面面积公式.md",
     "math/一元积分系列/阿基米德曲线.md",
     "math/一元积分系列/斯托克斯公式证明.md",
     "手写公式转Latex.md",
@@ -210,7 +212,6 @@
     "Zero.md",
     "math/二元积分系列",
     "math/一元积分系列",
-    "rw2027",
     "zzy/数据处理.md",
     "zzy/图像工程.md",
     "zzy/单片机接口与技术实验.md",
